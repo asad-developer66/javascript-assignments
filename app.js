@@ -1,7 +1,18 @@
+// GitHub final test
+
+
+// Chapter1 
+
+
+
+
+
+
+
 // Question 1:
 
 
-// Write a script to greet your website visitor using a JS alert box.
+//  Write a script to greet your website visitor using a JS alert box.
 
 
 // Answer:
@@ -184,3 +195,225 @@
 </body>
 
 
+
+
+
+
+
+
+// Chapter2
+
+
+// Question 1:
+
+ Declare a variable called username 
+
+
+// Answer:
+
+let username;
+
+
+
+
+
+// Question 2:
+
+// Declare a variable called myname & assign to it your full name
+
+
+// Answer:
+
+let myName = "asad"
+
+
+
+//  Question 3:
+
+a)Declare a variable 
+b)assign "hello word"
+c)show it in alert box
+
+
+
+
+
+// Answer:
+
+
+let message = "hello bro"
+alert(message);
+
+
+
+
+// Question 4:
+
+
+// save student bio data in variables & show in alert
+
+// Answer:
+
+
+let studentName ="muhammad asad";
+
+let age ="22 year old";
+let cource ="web dev";
+alert(studentName);
+alert(age);
+alert(course);
+
+
+
+
+
+
+
+// Question 5:
+
+// display one alert using one js variable 
+
+
+// Answer:
+
+
+let pen ="pen\npen\npen";
+alert(pen)
+
+
+
+// Question 6:
+
+
+declare email variable & show message in alert (use concatenation)
+
+// Answer:
+
+let email="asadkhan@gmail.com";
+alert(my email is"+email);
+
+
+
+
+
+
+// Question 7:
+
+// declare book variable & display message in alert 
+
+
+// Answer:
+
+
+let book ="hello dear";
+
+alert(i am happy"+book);
+
+
+
+
+// Question 8:
+
+
+// display a message in the browser through js 
+
+// Answer:
+
+
+document.write(hello);
+
+
+
+// Question 9:
+
+
+store a string & show in alert and browser
+
+// Answer:
+
+
+let design="  "
+
+alert(design);
+document.write(design)
+
+
+
+
+// Chapter3
+
+
+
+// Question 1:
+
+
+declare a variable called age & assin to it your age .show it an alert box.
+
+
+
+
+
+// Answer:
+
+let age ="20"
+
+alert("im "+ age +" year old");
+
+
+
+
+
+
+
+
+
+// Question 2:
+
+
+keep track of how manay times a visitor has visited a web page.
+
+
+
+// Answer:
+
+
+let visitcount = 5;
+document.write("you have visisted"+ visitcount + "time");
+
+
+
+
+
+
+
+// Question 3:
+
+declare a variable called birth year & show a message in browser.
+
+// Answer:
+
+let birthday = 2024;
+
+document.write("my birth year is" +birthyear +"<br> date type of my");
+
+
+
+
+
+
+
+
+
+
+
+// Question 4:
+
+online clothing store example.
+
+// Answer:
+
+
+let visitorName ="asad"
+let producttitle = "t-shirt";
+let quantity =8;
+document.write(visitor Name = "ordered" + quantity + "" + producttitle + "(s)on ...clothingn store");
